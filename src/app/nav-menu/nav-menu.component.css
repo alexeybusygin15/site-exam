@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
 a.navbar-brand {
   white-space: normal;
   word-break: break-all;
   
 }
 nav {
-  background-color: #353535;
-  font-family: 'Righteous';
+  background-color: #545454;
 }
 
 

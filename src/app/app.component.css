@@ -1,7 +1,3 @@
-.logo {
-    width: 100px;
-}
-
 
 
 .bd-masthead h1 {
@@ -34,4 +30,21 @@
 .btn{
     background-color: #C28C00;
     opacity: 70%;
+}
+section{
+    margin-top: 15rem;
+}
+input, select, textarea{
+    background-color: rgb(60, 60, 60);
+    outline: none;
+    border:none;
+}
+::placeholder{
+    color: rgb(114, 114, 114);
+}
+.logo-bottom{
+    margin-top: 10rem;
+}
+.first{
+    margin-top: 5rem;
 }

@@ -1,14 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 a.navbar-brand {
   white-space: normal;
-  text-align: center;
   word-break: break-all;
-
+  
 }
 nav {
-  background-color: #ddbea9;
+  background-color: #353535;
+  font-family: 'Righteous';
 }
 
 
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+.logo{
+  width: 45%;
+}
+.nav-link{
+  color: #C28C00;
+}
+#about{
+  visibility: none;
+  position: absolute;
+  top: -10px;
+  left: 0px;
 }

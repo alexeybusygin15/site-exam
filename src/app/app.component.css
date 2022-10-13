@@ -24,3 +24,10 @@
 .negative-benefit {
     color: red;
 }
+.img-div {
+    display: flex;
+    margin-left: -8rem;
+  }
+.mr-5{
+    margin-right: 5rem;
+}

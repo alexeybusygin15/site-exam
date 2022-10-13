@@ -19,10 +19,10 @@
 
 
 .postive-benefit {
-    color: forestgreen;
+    color: rgb(103, 188, 63);
 }
 .negative-benefit {
-    color: red;
+    color: rgb(239, 88, 88);
 }
 .img-div {
     display: flex;
@@ -30,4 +30,8 @@
   }
 .mr-5{
     margin-right: 5rem;
+}
+.btn{
+    background-color: #C28C00;
+    opacity: 70%;
 }
